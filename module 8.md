@@ -88,10 +88,6 @@ Output:
 ![image](https://github.com/user-attachments/assets/f4dc510e-e292-4b2e-b3bd-868fe65ef3d2)
 
 
-
-
-
-
 Result:
 Thus, the program is verified successfully
  
@@ -138,10 +134,6 @@ Output:
 
 
 ![image](https://github.com/user-attachments/assets/35be5e96-6379-4f70-b966-e87bbc22a2fd)
-
-
-
-
 
 
 Result:
@@ -220,17 +212,9 @@ return 0;
 }
 }
 ```
-
-
-
 Output:
 
-
 ![image](https://github.com/user-attachments/assets/aa9092a3-121a-4a45-8506-485289bd10b4)
-
-
-
-
 
 Result:
 Thus, the program is verified successfully
@@ -271,16 +255,9 @@ return 0;
 
 ```
 
-
 Output:
 
-
 ![image](https://github.com/user-attachments/assets/135baeff-dcb9-45f7-a179-6624cc534841)
-
-
-
-
-
 
 Result:
 Thus, the program is verified successfully
@@ -322,40 +299,8 @@ void square(){
 ```
 Output:
 
-
-
-
-
-
-
+![image](https://github.com/user-attachments/assets/5adf7574-b9ac-44f1-a44b-6202e0249d64)
 
 
 Result:
 Thus, the program is verified successfully
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
