@@ -85,7 +85,7 @@ printf("Greater than 13");
 Output:
 
 
-![image](https://github.com/user-attachments/assets/f4dc510e-e292-4b2e-b3bd-868fe65ef3d2)
+![image](https://github.com/user-attachments/assets/58ab1319-70a1-47f0-aec3-78d6155a5b34)
 
 
 Result:
@@ -133,7 +133,8 @@ printf("%d ",c);
 Output:
 
 
-![image](https://github.com/user-attachments/assets/35be5e96-6379-4f70-b966-e87bbc22a2fd)
+![image](https://github.com/user-attachments/assets/d0610f8c-ec79-4dbf-8f68-897c45d56a9d)
+
 
 
 Result:
@@ -214,7 +215,8 @@ return 0;
 ```
 Output:
 
-![image](https://github.com/user-attachments/assets/aa9092a3-121a-4a45-8506-485289bd10b4)
+![image](https://github.com/user-attachments/assets/ca58b50a-7e33-4612-9881-f4fa12316642)
+
 
 Result:
 Thus, the program is verified successfully
@@ -257,7 +259,8 @@ return 0;
 
 Output:
 
-![image](https://github.com/user-attachments/assets/135baeff-dcb9-45f7-a179-6624cc534841)
+![image](https://github.com/user-attachments/assets/50227e1d-02a6-4c63-aa4d-2daa4decc2da)
+
 
 Result:
 Thus, the program is verified successfully
@@ -299,7 +302,8 @@ void square(){
 ```
 Output:
 
-![image](https://github.com/user-attachments/assets/5adf7574-b9ac-44f1-a44b-6202e0249d64)
+![image](https://github.com/user-attachments/assets/0c106047-3fdf-4b2e-a834-de723fa7ce3d)
+
 
 
 Result:
