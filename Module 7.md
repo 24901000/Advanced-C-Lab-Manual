@@ -44,8 +44,7 @@ printf("Age:%d\nName:%svaccine:%d\neligibility:yes",e.age,e.n,e.age);
 
 Output:
 
-
-![image](https://github.com/user-attachments/assets/f3743b08-c819-432e-bc07-6a1ef7a5824f)
+![image](https://github.com/user-attachments/assets/44b49239-46f6-46c5-aa83-e5cc1f19759a)
 
 
 
@@ -92,9 +91,7 @@ return n.a+n.b;
 
 Output:
 
-
-![image](https://github.com/user-attachments/assets/b0e0d124-e5e1-4c70-981e-a2e1c7f8973c)
-
+![image](https://github.com/user-attachments/assets/61eb0af1-60ad-4266-a99a-3df8d78affe5)
 
 
 
@@ -144,16 +141,8 @@ printf("\n%s File Closed",name);
 
 Output:
 
-![image](https://github.com/user-attachments/assets/5eb1086c-c395-474d-8571-930460fe4f2a)
 
-
-
-
-
-
-
-
-
+![image](https://github.com/user-attachments/assets/2c29f02d-56b2-40b1-8628-dabee48c501d)
 
 
 Result:
@@ -207,7 +196,7 @@ printf("\nData added Successfully");
 
 Output:
 
-![image](https://github.com/user-attachments/assets/14469998-f11d-49f5-8cf3-0398b0c1ce37)
+![image](https://github.com/user-attachments/assets/6c71ec52-1508-4e88-819f-0dfc795fa64e)
 
 
 
@@ -289,6 +278,7 @@ int main()
 
 Output:
 
+![image](https://github.com/user-attachments/assets/eafea8b0-73cc-4ea0-afad-344e55a6dde7)
 
 
 
